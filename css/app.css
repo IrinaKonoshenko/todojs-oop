@@ -96,7 +96,7 @@ header {
   align-items: center;
   padding: 0 1rem;
   color: white;
-  background-color: #3318fa;
+  background-color: #0177a9;
   text-align: center;
   text-transform: uppercase;
 }
@@ -174,7 +174,7 @@ header h1 {
 }
 
 #todo-form input:focus {
-  border: 1px solid #f0db4f;
+  border: 1px solid #0177a9;
 }
 
 #todo-form button {
